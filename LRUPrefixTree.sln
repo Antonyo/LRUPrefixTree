@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRUPrefixTree", "LRUPrefixTree\LRUPrefixTree.csproj", "{E9665B08-1C8F-4D77-9239-7FCD8A489550}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRUPrefixTree.Tests", "LRUPrefixTree.Tests\LRUPrefixTree.Tests.csproj", "{E285219F-DDF2-438C-A1E5-EBBC10304C7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E9665B08-1C8F-4D77-9239-7FCD8A489550}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9665B08-1C8F-4D77-9239-7FCD8A489550}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9665B08-1C8F-4D77-9239-7FCD8A489550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E285219F-DDF2-438C-A1E5-EBBC10304C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E285219F-DDF2-438C-A1E5-EBBC10304C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E285219F-DDF2-438C-A1E5-EBBC10304C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E285219F-DDF2-438C-A1E5-EBBC10304C7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
